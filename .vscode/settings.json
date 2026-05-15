@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Ucak.sln"
+    "dotnet.defaultSolution": "Unity-Ucak.slnx"
 }

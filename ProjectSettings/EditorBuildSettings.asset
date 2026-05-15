@@ -6,9 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Arduino/Scene/U\xE7ak.unity"
+    path: "Assets/Arduino 1/Scene/U\xE7ak.unity"
     guid: c5e9a8673f5b7cfcaa4f7f88645b926c
   - enabled: 1
-    path: Assets/Arduino/Scene/Vurus.unity
+    path: Assets/Arduino 1/Scene/Vurus.unity
     guid: 47e1c521d0358a64e8257bffb033788e
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
